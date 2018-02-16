@@ -231,5 +231,5 @@
   MdeModulePkg/Application/HelloWorld/SHA1_SSE3_Optimized.inf
 
 [BuildOptions]
-  *_*_*_CC_FLAGS = -O2 -D DISABLE_NEW_DEPRECATED_INTERFACES
+  *_*_*_CC_FLAGS = -D DISABLE_NEW_DEPRECATED_INTERFACES
 
